@@ -1,0 +1,5 @@
+2025-12-13 22:37:56.963 INFO  n.cse.tlu.partner.server.GrpcServer - Partner gRPC Server started on port 9090
+2025-12-13 22:38:30.330 INFO  n.c.tlu.partner.server.PartnerRules - [PARTNER][CHECK] Start validation | tokenKey=1765640309599FT19310RH090, orderCode=FT19310RH090, amount=500000
+2025-12-13 22:38:30.331 INFO  n.c.tlu.partner.server.PartnerRules - [PARTNER][ACCEPT] Partner confirmed | orderCode=FT19310RH090
+2025-12-13 22:41:35.138 INFO  n.c.tlu.partner.server.PartnerRules - [PARTNER][CHECK] Start validation | tokenKey=1765640493379FT19310RH090, orderCode=FT19310RH090, amount=500000
+2025-12-13 22:41:35.139 WARN  n.c.tlu.partner.server.PartnerRules - [PARTNER][REJECT] Invalid apiID | apiID=VIETQR

@@ -1,0 +1,2 @@
+2025-12-14 00:20:30.056 INFO  n.c.tlu.partner.server.PartnerRules - [PARTNER][CHECK] Start validation | tokenKey=1765646425943FT19310RH090, orderCode=FT19310RH090, amount=500000
+2025-12-14 00:20:30.310 INFO  n.c.tlu.partner.server.PartnerRules - [PARTNER][ACCEPT] Partner confirmed | orderCode=FT19310RH090
